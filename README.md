@@ -1,6 +1,6 @@
 This is an interactive app in the form of a quiz.
 
-It uses JavaScript, jQuery, HTML and CSS
+It uses JavaScript, jQuery, HTML and CSS.
 
 It was coded from scratch on a Visual Studio Code editor.
 
