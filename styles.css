@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    border: 1 px solid blue;
+    text-align: center;
+    background-image: url("UIStudentUnion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    background-color: aquamarine;
+}
+
+html{
+    height: 100%;
+}
+
+button, .submitButton, .resetButton {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    background-color: darkgreen;
+    cursor: pointer;
+}
+
+.startButton{
+    margin-top: 100px;
+}
+
+.headlineSection{
+    background-color: darkgreen;
+    margin-top: 50px;   
+    height: 20%;
+}
+
+.questionSection{
+    height: 450px;  
+    height: 60%;
+}
+
+.resultsSection{
+    height: 20%;
+}
+
+.resultsContainer{
+    background-color: darkgreen;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.headlineContainer{
+   padding: 10px;
+}
+
+.templateContainer{
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+fieldset{
+    border: none;
+}
+
+label {
+    cursor: pointer;
+}
+
+
+
+
