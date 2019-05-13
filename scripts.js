@@ -321,7 +321,7 @@ function finalTemplate(){
     let finalScreen = 
                 `<div class="templateContainer">
                  <p>Thanks for playing!</p>
-                 <p>Your score is: ${numberCorrect}0%
+                 <p>Your score is: ${numberCorrect}0%</p>
                  <p>Please come visit Champaign-Urbana one day</p>
                  <button type="button" class="resetButton">Would you like to play again?</button>`
 
